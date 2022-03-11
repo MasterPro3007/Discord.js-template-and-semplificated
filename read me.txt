@@ -1,0 +1,42 @@
+ENGLISH / ALL:
+
+we sconsigliate you to use an another code editor of visual studio code.
+
+For this template function it download node.js (https://nodejs.org) and download the current version
+
+Then use the index.js file and view a tutorial on youtube how to create a discord bot javascript
+
+The process is equals for all operating systems (MacOS, Linux, Windows)
+
+Use the discord.js.functional/mainENG.py for use the semplicated version of the bot (only Linux)
+
+use this command in the terminal for this function it:
+
+npm init 
+
+for Tkinter:
+sudo apt-get install python-tk (only Linux) (for discord.js.functional/mainENG.py works)
+
+sudo apt update && sudo apt upgrade (solo Linux)
+
+
+ITALIAN / ITALIANO:
+
+noi sconsigliamo di usare un altro editor di codice apparte visual studio code.
+
+Per far diventare questo template funzionante devi scaricare node.js (https://nodejs.org) e scarica la versione current
+
+Dopo usa il file index.js e vedi un tutorial su youtube come creare un bot discord javascript
+
+Il procedimento è uguale per tutti i sistemi operativi (MacOS, Linux, Windows)
+
+Usa il discord.js.functional/mainITA.py per usare la versione semplificata del bot (solo Linux)
+
+usa questi commandi in modo che questo funzioni:
+
+npm init
+
+per Tkinter:
+sudo apt-get install python-tk (solo Linux) (per far funzionare discord.js.functional/mainITA.py)
+
+sudo apt update && sudo apt upgrade (Solo Linux)

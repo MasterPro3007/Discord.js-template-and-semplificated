@@ -1,0 +1,17 @@
+{
+  "name": "discord.botcreator.template",
+  "version": "13.6.0",
+  "description": "A template for create your first bot!",
+  "main": "index.js",
+  "dependencies": {
+    "backendless": "^6.3.7",
+    "discord.js": "^13.6.0",
+    "node.js": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Discord, Inc & MINzer (creator of template)",
+  "license": "ISC"
+}
