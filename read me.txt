@@ -12,7 +12,9 @@ Use the discord.js.functional/mainENG.py for use the semplicated version of the 
 
 use this command in the terminal for this function it:
 
-npm init 
+npm init
+
+npm i discord.js
 
 for Tkinter:
 sudo apt-get install python-tk (only Linux) (for discord.js.functional/mainENG.py works)
@@ -35,6 +37,8 @@ Usa il discord.js.functional/mainITA.py per usare la versione semplificata del b
 usa questi commandi in modo che questo funzioni:
 
 npm init
+
+npm i discord.js
 
 per Tkinter:
 sudo apt-get install python-tk (solo Linux) (per far funzionare discord.js.functional/mainITA.py)
