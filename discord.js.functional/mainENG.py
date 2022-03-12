@@ -26,6 +26,11 @@ def inst_dsJS():
      textInst_output = tk.Label(window, text=textInst, bg="blue", font=("Supermercado", 16))
      textInst_output.grid(row=0, column=3)
 
+def initnodeJS():
+     textInitnode = "Use in the terminal the command: npm init"
+     textInitnode_output = tk.Label(window, text=textInitnode, bg="blue", font=("Supermercado",16))
+     textInitnode_output.grid(row=1, column=0)
+
 text = "Discord.js semplificated by MINzer"
 text = tk.Label(window, text=text, bg="Blue", font=("Comic Sans MS", 16))
 text.grid(row=0, column=0)
@@ -35,6 +40,13 @@ init_bot.grid(row=0, column=1)
 
 inst_lib = tk.Button(window, text="Install the discord.js library", bg="Blue", font=("Comic Sans MS",16), command=inst_dsJS)
 inst_lib.grid(row=0, column=2)
+
+inst_lib = tk.Button(window, text="Init node.js", bg="Blue", font=("Comic Sans MS",16), command=initnodeJS)
+inst_lib.grid(row=1, column=0)
+
+text2 = "Use the fullscreen mode for a good experience"
+text2 = tk.Label(window, text=text2, bg="Blue", font=("Comic Sans MS", 16))
+text2.grid(row=2, column=0)
 
 if __name__ == "__main__":
     window.mainloop()
