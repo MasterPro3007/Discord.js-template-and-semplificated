@@ -19,7 +19,7 @@ npm i discord.js
 for Tkinter:
 sudo apt-get install python-tk (only Linux) (for discord.js.functional/mainENG.py works)
 
-sudo apt update && sudo apt upgrade (solo Linux)
+sudo apt update && sudo apt upgrade (only Linux)
 
 
 ITALIAN / ITALIANO:
